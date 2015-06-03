@@ -1,4 +1,4 @@
-package com.example.skytree;
+package com.tiritsumo.skytree;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
