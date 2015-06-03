@@ -1,3 +1,5 @@
+com.android.ide.eclipse.adt.attrSort=logical
 com.android.ide.eclipse.adt.fixLegacyEditors=1
-com.android.ide.eclipse.adt.sdk=C\:\\android\\android-sdk_r24.2-windows\\android-sdk-windows
+com.android.ide.eclipse.adt.sdk=C\:\\Android\\android-sdk-windows
+design.palette.flyout.width=192
 eclipse.preferences.version=1
