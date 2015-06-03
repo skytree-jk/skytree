@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.skytree;
+package com.tiritsumo.skytree;
 
 public final class R {
     public static final class anim {
@@ -2535,35 +2535,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.example.skytree:background}</code></td><td> Specifies a background drawable for the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.example.skytree:backgroundSplit}</code></td><td> Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.example.skytree:backgroundStacked}</code></td><td> Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.skytree:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.skytree:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.example.skytree:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.example.skytree:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.skytree:customNavigationLayout}</code></td><td> Specifies a layout for custom navigation.</td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.example.skytree:displayOptions}</code></td><td> Options affecting how the action bar is displayed.</td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.example.skytree:divider}</code></td><td> Specifies the drawable used for item dividers.</td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.example.skytree:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
-           <tr><td><code>{@link #ActionBar_height com.example.skytree:height}</code></td><td> Specifies a fixed height.</td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.example.skytree:hideOnContentScroll}</code></td><td> Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.example.skytree:homeAsUpIndicator}</code></td><td> Up navigation glyph </td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.example.skytree:homeLayout}</code></td><td> Specifies a layout to use for the "home" section of the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.example.skytree:icon}</code></td><td> Specifies the drawable used for the application icon.</td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.example.skytree:indeterminateProgressStyle}</code></td><td> Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.example.skytree:itemPadding}</code></td><td> Specifies padding that should be applied to the left and right sides of
+           <tr><td><code>{@link #ActionBar_background com.tiritsumo.skytree:background}</code></td><td> Specifies a background drawable for the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.tiritsumo.skytree:backgroundSplit}</code></td><td> Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.tiritsumo.skytree:backgroundStacked}</code></td><td> Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.tiritsumo.skytree:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.tiritsumo.skytree:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.tiritsumo.skytree:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.tiritsumo.skytree:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.tiritsumo.skytree:customNavigationLayout}</code></td><td> Specifies a layout for custom navigation.</td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.tiritsumo.skytree:displayOptions}</code></td><td> Options affecting how the action bar is displayed.</td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.tiritsumo.skytree:divider}</code></td><td> Specifies the drawable used for item dividers.</td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.tiritsumo.skytree:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
+           <tr><td><code>{@link #ActionBar_height com.tiritsumo.skytree:height}</code></td><td> Specifies a fixed height.</td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.tiritsumo.skytree:hideOnContentScroll}</code></td><td> Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.tiritsumo.skytree:homeAsUpIndicator}</code></td><td> Up navigation glyph </td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.tiritsumo.skytree:homeLayout}</code></td><td> Specifies a layout to use for the "home" section of the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.tiritsumo.skytree:icon}</code></td><td> Specifies the drawable used for the application icon.</td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.tiritsumo.skytree:indeterminateProgressStyle}</code></td><td> Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.tiritsumo.skytree:itemPadding}</code></td><td> Specifies padding that should be applied to the left and right sides of
              system-provided items in the bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.example.skytree:logo}</code></td><td> Specifies the drawable used for the application logo.</td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.example.skytree:navigationMode}</code></td><td> The type of navigation to use.</td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.example.skytree:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #ActionBar_logo com.tiritsumo.skytree:logo}</code></td><td> Specifies the drawable used for the application logo.</td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.tiritsumo.skytree:navigationMode}</code></td><td> The type of navigation to use.</td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.tiritsumo.skytree:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.example.skytree:progressBarPadding}</code></td><td> Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.example.skytree:progressBarStyle}</code></td><td> Specifies a style resource to use for an embedded progress bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.example.skytree:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.example.skytree:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
-           <tr><td><code>{@link #ActionBar_title com.example.skytree:title}</code></td><td> Specifies title text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.example.skytree:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.tiritsumo.skytree:progressBarPadding}</code></td><td> Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.tiritsumo.skytree:progressBarStyle}</code></td><td> Specifies a style resource to use for an embedded progress bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.tiritsumo.skytree:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.tiritsumo.skytree:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
+           <tr><td><code>{@link #ActionBar_title com.tiritsumo.skytree:title}</code></td><td> Specifies title text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.tiritsumo.skytree:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2611,7 +2611,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:background
+          @attr name com.tiritsumo.skytree:background
         */
         public static final int ActionBar_background = 11;
         /**
@@ -2625,7 +2625,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:backgroundSplit
+          @attr name com.tiritsumo.skytree:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 13;
         /**
@@ -2639,7 +2639,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:backgroundStacked
+          @attr name com.tiritsumo.skytree:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 12;
         /**
@@ -2658,7 +2658,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:contentInsetEnd
+          @attr name com.tiritsumo.skytree:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 22;
         /**
@@ -2677,7 +2677,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:contentInsetLeft
+          @attr name com.tiritsumo.skytree:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 23;
         /**
@@ -2696,7 +2696,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:contentInsetRight
+          @attr name com.tiritsumo.skytree:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 24;
         /**
@@ -2715,7 +2715,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:contentInsetStart
+          @attr name com.tiritsumo.skytree:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 21;
         /**
@@ -2727,7 +2727,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:customNavigationLayout
+          @attr name com.tiritsumo.skytree:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 14;
         /**
@@ -2751,7 +2751,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.skytree:displayOptions
+          @attr name com.tiritsumo.skytree:displayOptions
         */
         public static final int ActionBar_displayOptions = 4;
         /**
@@ -2763,7 +2763,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:divider
+          @attr name com.tiritsumo.skytree:divider
         */
         public static final int ActionBar_divider = 10;
         /**
@@ -2781,7 +2781,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:elevation
+          @attr name com.tiritsumo.skytree:elevation
         */
         public static final int ActionBar_elevation = 25;
         /**
@@ -2799,7 +2799,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:height
+          @attr name com.tiritsumo.skytree:height
         */
         public static final int ActionBar_height = 1;
         /**
@@ -2815,7 +2815,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:hideOnContentScroll
+          @attr name com.tiritsumo.skytree:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 20;
         /**
@@ -2827,7 +2827,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:homeAsUpIndicator
+          @attr name com.tiritsumo.skytree:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 2;
         /**
@@ -2839,7 +2839,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:homeLayout
+          @attr name com.tiritsumo.skytree:homeLayout
         */
         public static final int ActionBar_homeLayout = 15;
         /**
@@ -2851,7 +2851,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:icon
+          @attr name com.tiritsumo.skytree:icon
         */
         public static final int ActionBar_icon = 8;
         /**
@@ -2863,7 +2863,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:indeterminateProgressStyle
+          @attr name com.tiritsumo.skytree:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 17;
         /**
@@ -2882,7 +2882,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:itemPadding
+          @attr name com.tiritsumo.skytree:itemPadding
         */
         public static final int ActionBar_itemPadding = 19;
         /**
@@ -2894,7 +2894,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:logo
+          @attr name com.tiritsumo.skytree:logo
         */
         public static final int ActionBar_logo = 9;
         /**
@@ -2914,7 +2914,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>tabMode</code></td><td>2</td><td> The action bar will use a series of horizontal tabs for navigation. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.skytree:navigationMode
+          @attr name com.tiritsumo.skytree:navigationMode
         */
         public static final int ActionBar_navigationMode = 3;
         /**
@@ -2927,7 +2927,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:popupTheme
+          @attr name com.tiritsumo.skytree:popupTheme
         */
         public static final int ActionBar_popupTheme = 26;
         /**
@@ -2945,7 +2945,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:progressBarPadding
+          @attr name com.tiritsumo.skytree:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 18;
         /**
@@ -2957,7 +2957,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:progressBarStyle
+          @attr name com.tiritsumo.skytree:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 16;
         /**
@@ -2973,7 +2973,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:subtitle
+          @attr name com.tiritsumo.skytree:subtitle
         */
         public static final int ActionBar_subtitle = 5;
         /**
@@ -2985,7 +2985,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:subtitleTextStyle
+          @attr name com.tiritsumo.skytree:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 7;
         /**
@@ -3001,7 +3001,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:title
+          @attr name com.tiritsumo.skytree:title
         */
         public static final int ActionBar_title = 0;
         /**
@@ -3013,7 +3013,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:titleTextStyle
+          @attr name com.tiritsumo.skytree:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 6;
         /**  Valid LayoutParams for views placed in the action bar as custom views. 
@@ -3065,12 +3065,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.example.skytree:background}</code></td><td> Specifies a background for the action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.example.skytree:backgroundSplit}</code></td><td> Specifies a background for the split action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.example.skytree:closeItemLayout}</code></td><td> Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-           <tr><td><code>{@link #ActionMode_height com.example.skytree:height}</code></td><td> Specifies a fixed height for the action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.example.skytree:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.example.skytree:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
+           <tr><td><code>{@link #ActionMode_background com.tiritsumo.skytree:background}</code></td><td> Specifies a background for the action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.tiritsumo.skytree:backgroundSplit}</code></td><td> Specifies a background for the split action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.tiritsumo.skytree:closeItemLayout}</code></td><td> Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+           <tr><td><code>{@link #ActionMode_height com.tiritsumo.skytree:height}</code></td><td> Specifies a fixed height for the action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.tiritsumo.skytree:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.tiritsumo.skytree:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3092,7 +3092,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:background
+          @attr name com.tiritsumo.skytree:background
         */
         public static final int ActionMode_background = 3;
         /**
@@ -3106,7 +3106,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:backgroundSplit
+          @attr name com.tiritsumo.skytree:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
@@ -3118,7 +3118,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:closeItemLayout
+          @attr name com.tiritsumo.skytree:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
@@ -3136,7 +3136,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:height
+          @attr name com.tiritsumo.skytree:height
         */
         public static final int ActionMode_height = 0;
         /**
@@ -3148,7 +3148,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:subtitleTextStyle
+          @attr name com.tiritsumo.skytree:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
@@ -3160,7 +3160,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:titleTextStyle
+          @attr name com.tiritsumo.skytree:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /**  Attrbitutes for a ActivityChooserView. 
@@ -3169,8 +3169,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.example.skytree:expandActivityOverflowButtonDrawable}</code></td><td> The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.example.skytree:initialActivityCount}</code></td><td> The maximal number of items initially shown in the activity list.</td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.tiritsumo.skytree:expandActivityOverflowButtonDrawable}</code></td><td> The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.tiritsumo.skytree:initialActivityCount}</code></td><td> The maximal number of items initially shown in the activity list.</td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3192,7 +3192,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:expandActivityOverflowButtonDrawable
+          @attr name com.tiritsumo.skytree:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
@@ -3208,7 +3208,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:initialActivityCount
+          @attr name com.tiritsumo.skytree:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /**  The set of attributes that describe a AlertDialog's theme. 
@@ -3218,11 +3218,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.skytree:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.example.skytree:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.example.skytree:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.skytree:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.skytree:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.tiritsumo.skytree:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.tiritsumo.skytree:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.tiritsumo.skytree:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.tiritsumo.skytree:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.tiritsumo.skytree:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3242,53 +3242,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:buttonPanelSideLayout
+          @attr name com.tiritsumo.skytree:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:listItemLayout
+          @attr name com.tiritsumo.skytree:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:listLayout
+          @attr name com.tiritsumo.skytree:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:multiChoiceItemLayout
+          @attr name com.tiritsumo.skytree:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:singleChoiceItemLayout
+          @attr name com.tiritsumo.skytree:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3298,7 +3298,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.skytree:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.tiritsumo.skytree:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3322,7 +3322,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textAllCaps
+          @attr name com.tiritsumo.skytree:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3331,14 +3331,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize com.example.skytree:barSize}</code></td><td> The size of the bars when they are parallel to each other </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.example.skytree:color}</code></td><td> The drawing color for the bars </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.skytree:drawableSize}</code></td><td> The total size of the drawable </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.skytree:gapBetweenBars}</code></td><td> The max gap between the bars when they are parallel to each other </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.example.skytree:middleBarArrowSize}</code></td><td> The size of the middle bar when top and bottom bars merge into middle bar to form an arrow </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.skytree:spinBars}</code></td><td> Whether bars should rotate or not during transition </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.skytree:thickness}</code></td><td> The thickness (stroke size) for the bar paint </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.example.skytree:topBottomBarArrowSize}</code></td><td> The size of the top and bottom bars when they merge to the middle bar to form an arrow </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barSize com.tiritsumo.skytree:barSize}</code></td><td> The size of the bars when they are parallel to each other </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.tiritsumo.skytree:color}</code></td><td> The drawing color for the bars </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.tiritsumo.skytree:drawableSize}</code></td><td> The total size of the drawable </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.tiritsumo.skytree:gapBetweenBars}</code></td><td> The max gap between the bars when they are parallel to each other </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.tiritsumo.skytree:middleBarArrowSize}</code></td><td> The size of the middle bar when top and bottom bars merge into middle bar to form an arrow </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.tiritsumo.skytree:spinBars}</code></td><td> Whether bars should rotate or not during transition </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.tiritsumo.skytree:thickness}</code></td><td> The thickness (stroke size) for the bar paint </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.tiritsumo.skytree:topBottomBarArrowSize}</code></td><td> The size of the top and bottom bars when they merge to the middle bar to form an arrow </td></tr>
            </table>
            @see #DrawerArrowToggle_barSize
            @see #DrawerArrowToggle_color
@@ -3368,7 +3368,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:barSize
+          @attr name com.tiritsumo.skytree:barSize
         */
         public static final int DrawerArrowToggle_barSize = 6;
         /**
@@ -3385,7 +3385,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:color
+          @attr name com.tiritsumo.skytree:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
@@ -3403,7 +3403,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:drawableSize
+          @attr name com.tiritsumo.skytree:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
@@ -3421,7 +3421,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:gapBetweenBars
+          @attr name com.tiritsumo.skytree:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
@@ -3439,7 +3439,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:middleBarArrowSize
+          @attr name com.tiritsumo.skytree:middleBarArrowSize
         */
         public static final int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
@@ -3455,7 +3455,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:spinBars
+          @attr name com.tiritsumo.skytree:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
@@ -3473,7 +3473,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:thickness
+          @attr name com.tiritsumo.skytree:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /**
@@ -3491,7 +3491,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:topBottomBarArrowSize
+          @attr name com.tiritsumo.skytree:topBottomBarArrowSize
         */
         public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3509,11 +3509,11 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td> Should the layout be a column or a row?  Use "horizontal"
              for a row, "vertical" for a column.</td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td> Defines the maximum weight sum.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.example.skytree:divider}</code></td><td> Drawable to use as a vertical divider between buttons.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.example.skytree:dividerPadding}</code></td><td> Size of padding on either end of a divider.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.example.skytree:measureWithLargestChild}</code></td><td> When set to true, all children with a weight will be considered having
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.tiritsumo.skytree:divider}</code></td><td> Drawable to use as a vertical divider between buttons.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.tiritsumo.skytree:dividerPadding}</code></td><td> Size of padding on either end of a divider.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.tiritsumo.skytree:measureWithLargestChild}</code></td><td> When set to true, all children with a weight will be considered having
              the minimum size of the largest child.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.example.skytree:showDividers}</code></td><td> Setting for which dividers to show.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.tiritsumo.skytree:showDividers}</code></td><td> Setting for which dividers to show.</td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3591,7 +3591,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:divider
+          @attr name com.tiritsumo.skytree:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
@@ -3609,7 +3609,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:dividerPadding
+          @attr name com.tiritsumo.skytree:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
@@ -3627,7 +3627,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:measureWithLargestChild
+          @attr name com.tiritsumo.skytree:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
@@ -3648,7 +3648,7 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.skytree:showDividers
+          @attr name com.tiritsumo.skytree:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -3813,10 +3813,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.example.skytree:actionLayout}</code></td><td> An optional layout to be used as an action view.</td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.example.skytree:actionProviderClass}</code></td><td> The name of an optional ActionProvider class to instantiate an action view
+           <tr><td><code>{@link #MenuItem_actionLayout com.tiritsumo.skytree:actionLayout}</code></td><td> An optional layout to be used as an action view.</td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.tiritsumo.skytree:actionProviderClass}</code></td><td> The name of an optional ActionProvider class to instantiate an action view
              and perform operations such as default action for that menu item.</td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.example.skytree:actionViewClass}</code></td><td> The name of an optional View class to instantiate and use as an
+           <tr><td><code>{@link #MenuItem_actionViewClass com.tiritsumo.skytree:actionViewClass}</code></td><td> The name of an optional View class to instantiate and use as an
              action view.</td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td> The alphabetic shortcut key.</td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td> Whether the item is capable of displaying a check mark.</td></tr>
@@ -3832,7 +3832,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td> The title associated with the item.</td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td> The condensed title associated with the item.</td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td> Whether the item is shown/visible.</td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.example.skytree:showAsAction}</code></td><td> How this item should display in the Action Bar, if present.</td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.tiritsumo.skytree:showAsAction}</code></td><td> How this item should display in the Action Bar, if present.</td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -3870,7 +3870,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionLayout
+          @attr name com.tiritsumo.skytree:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
@@ -3889,7 +3889,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionProviderClass
+          @attr name com.tiritsumo.skytree:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
@@ -3907,7 +3907,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionViewClass
+          @attr name com.tiritsumo.skytree:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -4063,7 +4063,7 @@ containing a value of this type.
                  larger segment of its container. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.skytree:showAsAction
+          @attr name com.tiritsumo.skytree:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4079,7 +4079,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td> Default appearance of menu item text.</td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td> Default vertical divider between menu items.</td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td> Default animations for the menu.</td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.skytree:preserveIconSpacing}</code></td><td> Whether space should be reserved in layout when an icon is missing.</td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.tiritsumo.skytree:preserveIconSpacing}</code></td><td> Whether space should be reserved in layout when an icon is missing.</td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -4170,7 +4170,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:preserveIconSpacing
+          @attr name com.tiritsumo.skytree:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -4180,7 +4180,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.skytree:overlapAnchor}</code></td><td> Whether the popup window should overlap its anchor view.</td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.tiritsumo.skytree:overlapAnchor}</code></td><td> Whether the popup window should overlap its anchor view.</td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -4207,7 +4207,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:overlapAnchor
+          @attr name com.tiritsumo.skytree:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -4216,7 +4216,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.example.skytree:state_above_anchor}</code></td><td> State identifier indicating the popup will be above the anchor.</td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.tiritsumo.skytree:state_above_anchor}</code></td><td> State identifier indicating the popup will be above the anchor.</td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -4236,7 +4236,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:state_above_anchor
+          @attr name com.tiritsumo.skytree:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -4249,18 +4249,18 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td> The IME options to set on the query text field.</td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td> The input type to set on the query text field.</td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td> An optional maximum width of the SearchView.</td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.example.skytree:closeIcon}</code></td><td> Close button icon </td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.example.skytree:commitIcon}</code></td><td> Commit icon shown in the query suggestion row </td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.example.skytree:goIcon}</code></td><td> Go button icon </td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.skytree:iconifiedByDefault}</code></td><td> The default state of the SearchView.</td></tr>
-           <tr><td><code>{@link #SearchView_layout com.example.skytree:layout}</code></td><td> The layout to use for the search view.</td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.example.skytree:queryBackground}</code></td><td> Background for the section containing the search query </td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.example.skytree:queryHint}</code></td><td> An optional query hint string to be displayed in the empty query field.</td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.example.skytree:searchHintIcon}</code></td><td> Search icon displayed as a text field hint </td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.example.skytree:searchIcon}</code></td><td> Search icon </td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.example.skytree:submitBackground}</code></td><td> Background for the section containing the action (e.</td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.skytree:suggestionRowLayout}</code></td><td> Layout for query suggestion rows </td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.example.skytree:voiceIcon}</code></td><td> Voice button icon </td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.tiritsumo.skytree:closeIcon}</code></td><td> Close button icon </td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.tiritsumo.skytree:commitIcon}</code></td><td> Commit icon shown in the query suggestion row </td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.tiritsumo.skytree:goIcon}</code></td><td> Go button icon </td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.tiritsumo.skytree:iconifiedByDefault}</code></td><td> The default state of the SearchView.</td></tr>
+           <tr><td><code>{@link #SearchView_layout com.tiritsumo.skytree:layout}</code></td><td> The layout to use for the search view.</td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.tiritsumo.skytree:queryBackground}</code></td><td> Background for the section containing the search query </td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.tiritsumo.skytree:queryHint}</code></td><td> An optional query hint string to be displayed in the empty query field.</td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.tiritsumo.skytree:searchHintIcon}</code></td><td> Search icon displayed as a text field hint </td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.tiritsumo.skytree:searchIcon}</code></td><td> Search icon </td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.tiritsumo.skytree:submitBackground}</code></td><td> Background for the section containing the action (e.</td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.tiritsumo.skytree:suggestionRowLayout}</code></td><td> Layout for query suggestion rows </td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.tiritsumo.skytree:voiceIcon}</code></td><td> Voice button icon </td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -4327,7 +4327,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:closeIcon
+          @attr name com.tiritsumo.skytree:closeIcon
         */
         public static final int SearchView_closeIcon = 7;
         /**
@@ -4339,7 +4339,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:commitIcon
+          @attr name com.tiritsumo.skytree:commitIcon
         */
         public static final int SearchView_commitIcon = 12;
         /**
@@ -4351,7 +4351,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:goIcon
+          @attr name com.tiritsumo.skytree:goIcon
         */
         public static final int SearchView_goIcon = 8;
         /**
@@ -4368,7 +4368,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:iconifiedByDefault
+          @attr name com.tiritsumo.skytree:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
@@ -4380,7 +4380,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:layout
+          @attr name com.tiritsumo.skytree:layout
         */
         public static final int SearchView_layout = 4;
         /**
@@ -4392,7 +4392,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:queryBackground
+          @attr name com.tiritsumo.skytree:queryBackground
         */
         public static final int SearchView_queryBackground = 14;
         /**
@@ -4408,7 +4408,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:queryHint
+          @attr name com.tiritsumo.skytree:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
@@ -4420,7 +4420,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:searchHintIcon
+          @attr name com.tiritsumo.skytree:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 10;
         /**
@@ -4432,7 +4432,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:searchIcon
+          @attr name com.tiritsumo.skytree:searchIcon
         */
         public static final int SearchView_searchIcon = 9;
         /**
@@ -4444,7 +4444,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:submitBackground
+          @attr name com.tiritsumo.skytree:submitBackground
         */
         public static final int SearchView_submitBackground = 15;
         /**
@@ -4456,7 +4456,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:suggestionRowLayout
+          @attr name com.tiritsumo.skytree:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 13;
         /**
@@ -4468,7 +4468,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:voiceIcon
+          @attr name com.tiritsumo.skytree:voiceIcon
         */
         public static final int SearchView_voiceIcon = 11;
         /** Attributes that can be used with a Spinner.
@@ -4486,12 +4486,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td> Width of the dropdown in spinnerMode="dropdown".</td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td> Gravity setting for positioning the currently selected item.</td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td> Background drawable to use for the dropdown in spinnerMode="dropdown".</td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.example.skytree:disableChildrenWhenDisabled}</code></td><td> Whether this spinner should mark child views as enabled/disabled when
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.tiritsumo.skytree:disableChildrenWhenDisabled}</code></td><td> Whether this spinner should mark child views as enabled/disabled when
              the spinner itself is enabled/disabled.</td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView com.example.skytree:popupPromptView}</code></td><td> Reference to a layout to use for displaying a prompt in the dropdown for
+           <tr><td><code>{@link #Spinner_popupPromptView com.tiritsumo.skytree:popupPromptView}</code></td><td> Reference to a layout to use for displaying a prompt in the dropdown for
              spinnerMode="dropdown".</td></tr>
-           <tr><td><code>{@link #Spinner_prompt com.example.skytree:prompt}</code></td><td> The prompt to display when the spinner's dialog is shown.</td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode com.example.skytree:spinnerMode}</code></td><td> Display mode for spinner options.</td></tr>
+           <tr><td><code>{@link #Spinner_prompt com.tiritsumo.skytree:prompt}</code></td><td> The prompt to display when the spinner's dialog is shown.</td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode com.tiritsumo.skytree:spinnerMode}</code></td><td> Display mode for spinner options.</td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -4586,7 +4586,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:disableChildrenWhenDisabled
+          @attr name com.tiritsumo.skytree:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 10;
         /**
@@ -4600,7 +4600,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:popupPromptView
+          @attr name com.tiritsumo.skytree:popupPromptView
         */
         public static final int Spinner_popupPromptView = 9;
         /**
@@ -4612,7 +4612,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:prompt
+          @attr name com.tiritsumo.skytree:prompt
         */
         public static final int Spinner_prompt = 7;
         /**
@@ -4632,7 +4632,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
                  anchored to the spinner widget itself. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.skytree:spinnerMode
+          @attr name com.tiritsumo.skytree:spinnerMode
         */
         public static final int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
@@ -4644,13 +4644,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td> Text to use when the switch is in the unchecked/"off" state.</td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td> Text to use when the switch is in the checked/"on" state.</td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td> Drawable to use as the "thumb" that switches back and forth.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.example.skytree:showText}</code></td><td> Whether to draw on/off text.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.example.skytree:splitTrack}</code></td><td> Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.example.skytree:switchMinWidth}</code></td><td> Minimum width for the switch component </td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.example.skytree:switchPadding}</code></td><td> Minimum space between the switch and caption text </td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.skytree:switchTextAppearance}</code></td><td> TextAppearance style for text displayed on the switch thumb.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.skytree:thumbTextPadding}</code></td><td> Amount of padding on either side of text within the switch thumb.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.example.skytree:track}</code></td><td> Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.tiritsumo.skytree:showText}</code></td><td> Whether to draw on/off text.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.tiritsumo.skytree:splitTrack}</code></td><td> Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.tiritsumo.skytree:switchMinWidth}</code></td><td> Minimum width for the switch component </td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.tiritsumo.skytree:switchPadding}</code></td><td> Minimum space between the switch and caption text </td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.tiritsumo.skytree:switchTextAppearance}</code></td><td> TextAppearance style for text displayed on the switch thumb.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.tiritsumo.skytree:thumbTextPadding}</code></td><td> Amount of padding on either side of text within the switch thumb.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.tiritsumo.skytree:track}</code></td><td> Drawable to use as the "track" that the switch thumb slides within.</td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -4708,7 +4708,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:showText
+          @attr name com.tiritsumo.skytree:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
@@ -4724,7 +4724,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:splitTrack
+          @attr name com.tiritsumo.skytree:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
@@ -4742,7 +4742,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:switchMinWidth
+          @attr name com.tiritsumo.skytree:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
@@ -4760,7 +4760,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:switchPadding
+          @attr name com.tiritsumo.skytree:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
@@ -4772,7 +4772,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:switchTextAppearance
+          @attr name com.tiritsumo.skytree:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
@@ -4790,7 +4790,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:thumbTextPadding
+          @attr name com.tiritsumo.skytree:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
@@ -4802,7 +4802,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:track
+          @attr name com.tiritsumo.skytree:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -4815,7 +4815,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.example.skytree:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.tiritsumo.skytree:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -4861,7 +4861,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textAllCaps
+          @attr name com.tiritsumo.skytree:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 4;
         /**  These are the standard attributes that make up a complete theme. 
@@ -4870,128 +4870,128 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.example.skytree:actionBarDivider}</code></td><td> Custom divider drawable to use for elements in the action bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.example.skytree:actionBarItemBackground}</code></td><td> Custom item state list drawable background for action bar items.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.example.skytree:actionBarPopupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #Theme_actionBarDivider com.tiritsumo.skytree:actionBarDivider}</code></td><td> Custom divider drawable to use for elements in the action bar.</td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.tiritsumo.skytree:actionBarItemBackground}</code></td><td> Custom item state list drawable background for action bar items.</td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.tiritsumo.skytree:actionBarPopupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the action bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.example.skytree:actionBarSize}</code></td><td> Size of the Action Bar, including the contextual
+           <tr><td><code>{@link #Theme_actionBarSize com.tiritsumo.skytree:actionBarSize}</code></td><td> Size of the Action Bar, including the contextual
              bar used to present Action Modes.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.example.skytree:actionBarSplitStyle}</code></td><td> Reference to a style for the split Action Bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.example.skytree:actionBarStyle}</code></td><td> Reference to a style for the Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.example.skytree:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.example.skytree:actionBarTabStyle}</code></td><td> Default style for tabs within an action bar </td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.example.skytree:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.example.skytree:actionBarTheme}</code></td><td> Reference to a theme that should be used to inflate the
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.tiritsumo.skytree:actionBarSplitStyle}</code></td><td> Reference to a style for the split Action Bar.</td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.tiritsumo.skytree:actionBarStyle}</code></td><td> Reference to a style for the Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.tiritsumo.skytree:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.tiritsumo.skytree:actionBarTabStyle}</code></td><td> Default style for tabs within an action bar </td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.tiritsumo.skytree:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.tiritsumo.skytree:actionBarTheme}</code></td><td> Reference to a theme that should be used to inflate the
              action bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.example.skytree:actionBarWidgetTheme}</code></td><td> Reference to a theme that should be used to inflate widgets
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.tiritsumo.skytree:actionBarWidgetTheme}</code></td><td> Reference to a theme that should be used to inflate widgets
              and layouts destined for the action bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.example.skytree:actionButtonStyle}</code></td><td> Default action button style.</td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.example.skytree:actionDropDownStyle}</code></td><td> Default ActionBar dropdown style.</td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.example.skytree:actionMenuTextAppearance}</code></td><td> TextAppearance style that will be applied to text that
+           <tr><td><code>{@link #Theme_actionButtonStyle com.tiritsumo.skytree:actionButtonStyle}</code></td><td> Default action button style.</td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.tiritsumo.skytree:actionDropDownStyle}</code></td><td> Default ActionBar dropdown style.</td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.tiritsumo.skytree:actionMenuTextAppearance}</code></td><td> TextAppearance style that will be applied to text that
              appears within action menu items.</td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.example.skytree:actionMenuTextColor}</code></td><td> Color for text that appears within action menu items.</td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.example.skytree:actionModeBackground}</code></td><td> Background drawable to use for action mode UI </td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.example.skytree:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.example.skytree:actionModeCloseDrawable}</code></td><td> Drawable to use for the close action mode button </td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.example.skytree:actionModeCopyDrawable}</code></td><td> Drawable to use for the Copy action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.example.skytree:actionModeCutDrawable}</code></td><td> Drawable to use for the Cut action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.example.skytree:actionModeFindDrawable}</code></td><td> Drawable to use for the Find action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.example.skytree:actionModePasteDrawable}</code></td><td> Drawable to use for the Paste action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.example.skytree:actionModePopupWindowStyle}</code></td><td> PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.example.skytree:actionModeSelectAllDrawable}</code></td><td> Drawable to use for the Select all action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.example.skytree:actionModeShareDrawable}</code></td><td> Drawable to use for the Share action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.example.skytree:actionModeSplitBackground}</code></td><td> Background drawable to use for action mode UI in the lower split bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.example.skytree:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.example.skytree:actionModeWebSearchDrawable}</code></td><td> Drawable to use for the Web Search action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.example.skytree:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.example.skytree:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.example.skytree:activityChooserViewStyle}</code></td><td> Default ActivityChooserView style.</td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.example.skytree:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.example.skytree:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.example.skytree:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.example.skytree:alertDialogTheme}</code></td><td> Theme to use for alert dialogs spawned from this theme.</td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.tiritsumo.skytree:actionMenuTextColor}</code></td><td> Color for text that appears within action menu items.</td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.tiritsumo.skytree:actionModeBackground}</code></td><td> Background drawable to use for action mode UI </td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.tiritsumo.skytree:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.tiritsumo.skytree:actionModeCloseDrawable}</code></td><td> Drawable to use for the close action mode button </td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.tiritsumo.skytree:actionModeCopyDrawable}</code></td><td> Drawable to use for the Copy action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.tiritsumo.skytree:actionModeCutDrawable}</code></td><td> Drawable to use for the Cut action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.tiritsumo.skytree:actionModeFindDrawable}</code></td><td> Drawable to use for the Find action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.tiritsumo.skytree:actionModePasteDrawable}</code></td><td> Drawable to use for the Paste action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.tiritsumo.skytree:actionModePopupWindowStyle}</code></td><td> PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.tiritsumo.skytree:actionModeSelectAllDrawable}</code></td><td> Drawable to use for the Select all action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.tiritsumo.skytree:actionModeShareDrawable}</code></td><td> Drawable to use for the Share action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.tiritsumo.skytree:actionModeSplitBackground}</code></td><td> Background drawable to use for action mode UI in the lower split bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.tiritsumo.skytree:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.tiritsumo.skytree:actionModeWebSearchDrawable}</code></td><td> Drawable to use for the Web Search action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.tiritsumo.skytree:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.tiritsumo.skytree:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.tiritsumo.skytree:activityChooserViewStyle}</code></td><td> Default ActivityChooserView style.</td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.tiritsumo.skytree:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.tiritsumo.skytree:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.tiritsumo.skytree:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.tiritsumo.skytree:alertDialogTheme}</code></td><td> Theme to use for alert dialogs spawned from this theme.</td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.example.skytree:autoCompleteTextViewStyle}</code></td><td> Default AutoCompleteTextView style.</td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.example.skytree:buttonBarButtonStyle}</code></td><td> Style for buttons within button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.example.skytree:buttonBarNegativeButtonStyle}</code></td><td> Style for the "negative" buttons within button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.example.skytree:buttonBarNeutralButtonStyle}</code></td><td> Style for the "neutral" buttons within button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.example.skytree:buttonBarPositiveButtonStyle}</code></td><td> Style for the "positive" buttons within button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.example.skytree:buttonBarStyle}</code></td><td> Style for button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.example.skytree:buttonStyle}</code></td><td> Normal Button style.</td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.example.skytree:buttonStyleSmall}</code></td><td> Small Button style.</td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.example.skytree:checkboxStyle}</code></td><td> Default Checkbox style.</td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.example.skytree:checkedTextViewStyle}</code></td><td> Default CheckedTextView style.</td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.example.skytree:colorAccent}</code></td><td> Bright complement to the primary branding color.</td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.example.skytree:colorButtonNormal}</code></td><td> The color applied to framework buttons in their normal state.</td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.example.skytree:colorControlActivated}</code></td><td> The color applied to framework controls in their activated (ex.</td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.example.skytree:colorControlHighlight}</code></td><td> The color applied to framework control highlights (ex.</td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.example.skytree:colorControlNormal}</code></td><td> The color applied to framework controls in their normal state.</td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.example.skytree:colorPrimary}</code></td><td> The primary branding color for the app.</td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.example.skytree:colorPrimaryDark}</code></td><td> Dark variant of the primary branding color.</td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.example.skytree:colorSwitchThumbNormal}</code></td><td> The color applied to framework switch thumbs in their normal state.</td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.example.skytree:dialogPreferredPadding}</code></td><td> Preferred padding for dialog content.</td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.example.skytree:dialogTheme}</code></td><td> Theme to use for dialogs spawned from this theme.</td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.example.skytree:dividerHorizontal}</code></td><td> A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.example.skytree:dividerVertical}</code></td><td> A drawable that may be used as a vertical divider between visual elements.</td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.example.skytree:dropDownListViewStyle}</code></td><td> ListPopupWindow compatibility </td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.example.skytree:dropdownListPreferredItemHeight}</code></td><td> The preferred item height for dropdown lists.</td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.example.skytree:editTextBackground}</code></td><td> EditText background drawable.</td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.example.skytree:editTextColor}</code></td><td> EditText text foreground color.</td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.example.skytree:editTextStyle}</code></td><td> Default EditText style.</td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.example.skytree:homeAsUpIndicator}</code></td><td> Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.example.skytree:listChoiceBackgroundIndicator}</code></td><td> Drawable used as a background for selected list items.</td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.example.skytree:listDividerAlertDialog}</code></td><td> The list divider used in alert dialogs.</td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.example.skytree:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.example.skytree:listPreferredItemHeight}</code></td><td> The preferred list item height.</td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.example.skytree:listPreferredItemHeightLarge}</code></td><td> A larger, more robust list item height.</td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.example.skytree:listPreferredItemHeightSmall}</code></td><td> A smaller, sleeker list item height.</td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.example.skytree:listPreferredItemPaddingLeft}</code></td><td> The preferred padding along the left edge of list items.</td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.example.skytree:listPreferredItemPaddingRight}</code></td><td> The preferred padding along the right edge of list items.</td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.example.skytree:panelBackground}</code></td><td> The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.example.skytree:panelMenuListTheme}</code></td><td> Default Panel Menu style.</td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.example.skytree:panelMenuListWidth}</code></td><td> Default Panel Menu width.</td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.example.skytree:popupMenuStyle}</code></td><td> Default PopupMenu style.</td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.example.skytree:popupWindowStyle}</code></td><td> Default PopupWindow style.</td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.example.skytree:radioButtonStyle}</code></td><td> Default RadioButton style.</td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.example.skytree:ratingBarStyle}</code></td><td> Default RatingBar style.</td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.example.skytree:searchViewStyle}</code></td><td> Style for the search query widget.</td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.example.skytree:selectableItemBackground}</code></td><td> A style that may be applied to buttons or other selectable items
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.tiritsumo.skytree:autoCompleteTextViewStyle}</code></td><td> Default AutoCompleteTextView style.</td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.tiritsumo.skytree:buttonBarButtonStyle}</code></td><td> Style for buttons within button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.tiritsumo.skytree:buttonBarNegativeButtonStyle}</code></td><td> Style for the "negative" buttons within button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.tiritsumo.skytree:buttonBarNeutralButtonStyle}</code></td><td> Style for the "neutral" buttons within button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.tiritsumo.skytree:buttonBarPositiveButtonStyle}</code></td><td> Style for the "positive" buttons within button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.tiritsumo.skytree:buttonBarStyle}</code></td><td> Style for button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.tiritsumo.skytree:buttonStyle}</code></td><td> Normal Button style.</td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.tiritsumo.skytree:buttonStyleSmall}</code></td><td> Small Button style.</td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.tiritsumo.skytree:checkboxStyle}</code></td><td> Default Checkbox style.</td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.tiritsumo.skytree:checkedTextViewStyle}</code></td><td> Default CheckedTextView style.</td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.tiritsumo.skytree:colorAccent}</code></td><td> Bright complement to the primary branding color.</td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.tiritsumo.skytree:colorButtonNormal}</code></td><td> The color applied to framework buttons in their normal state.</td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.tiritsumo.skytree:colorControlActivated}</code></td><td> The color applied to framework controls in their activated (ex.</td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.tiritsumo.skytree:colorControlHighlight}</code></td><td> The color applied to framework control highlights (ex.</td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.tiritsumo.skytree:colorControlNormal}</code></td><td> The color applied to framework controls in their normal state.</td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.tiritsumo.skytree:colorPrimary}</code></td><td> The primary branding color for the app.</td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.tiritsumo.skytree:colorPrimaryDark}</code></td><td> Dark variant of the primary branding color.</td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.tiritsumo.skytree:colorSwitchThumbNormal}</code></td><td> The color applied to framework switch thumbs in their normal state.</td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.tiritsumo.skytree:dialogPreferredPadding}</code></td><td> Preferred padding for dialog content.</td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.tiritsumo.skytree:dialogTheme}</code></td><td> Theme to use for dialogs spawned from this theme.</td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.tiritsumo.skytree:dividerHorizontal}</code></td><td> A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.tiritsumo.skytree:dividerVertical}</code></td><td> A drawable that may be used as a vertical divider between visual elements.</td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.tiritsumo.skytree:dropDownListViewStyle}</code></td><td> ListPopupWindow compatibility </td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.tiritsumo.skytree:dropdownListPreferredItemHeight}</code></td><td> The preferred item height for dropdown lists.</td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.tiritsumo.skytree:editTextBackground}</code></td><td> EditText background drawable.</td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.tiritsumo.skytree:editTextColor}</code></td><td> EditText text foreground color.</td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.tiritsumo.skytree:editTextStyle}</code></td><td> Default EditText style.</td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.tiritsumo.skytree:homeAsUpIndicator}</code></td><td> Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.tiritsumo.skytree:listChoiceBackgroundIndicator}</code></td><td> Drawable used as a background for selected list items.</td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.tiritsumo.skytree:listDividerAlertDialog}</code></td><td> The list divider used in alert dialogs.</td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.tiritsumo.skytree:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.tiritsumo.skytree:listPreferredItemHeight}</code></td><td> The preferred list item height.</td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.tiritsumo.skytree:listPreferredItemHeightLarge}</code></td><td> A larger, more robust list item height.</td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.tiritsumo.skytree:listPreferredItemHeightSmall}</code></td><td> A smaller, sleeker list item height.</td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.tiritsumo.skytree:listPreferredItemPaddingLeft}</code></td><td> The preferred padding along the left edge of list items.</td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.tiritsumo.skytree:listPreferredItemPaddingRight}</code></td><td> The preferred padding along the right edge of list items.</td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.tiritsumo.skytree:panelBackground}</code></td><td> The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.tiritsumo.skytree:panelMenuListTheme}</code></td><td> Default Panel Menu style.</td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.tiritsumo.skytree:panelMenuListWidth}</code></td><td> Default Panel Menu width.</td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.tiritsumo.skytree:popupMenuStyle}</code></td><td> Default PopupMenu style.</td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.tiritsumo.skytree:popupWindowStyle}</code></td><td> Default PopupWindow style.</td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.tiritsumo.skytree:radioButtonStyle}</code></td><td> Default RadioButton style.</td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.tiritsumo.skytree:ratingBarStyle}</code></td><td> Default RatingBar style.</td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.tiritsumo.skytree:searchViewStyle}</code></td><td> Style for the search query widget.</td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.tiritsumo.skytree:selectableItemBackground}</code></td><td> A style that may be applied to buttons or other selectable items
              that should react to pressed and focus states, but that do not
              have a clear visual border along the edges.</td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.example.skytree:selectableItemBackgroundBorderless}</code></td><td> Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.example.skytree:spinnerDropDownItemStyle}</code></td><td> Default Spinner style.</td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.example.skytree:spinnerStyle}</code></td><td> Default Spinner style.</td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.example.skytree:switchStyle}</code></td><td> Default style for the Switch widget.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.example.skytree:textAppearanceLargePopupMenu}</code></td><td> Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.example.skytree:textAppearanceListItem}</code></td><td> The preferred TextAppearance for the primary text of list items.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.example.skytree:textAppearanceListItemSmall}</code></td><td> The preferred TextAppearance for the primary text of small list items.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.example.skytree:textAppearanceSearchResultSubtitle}</code></td><td> Text color, typeface, size, and style for system search result subtitle.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.example.skytree:textAppearanceSearchResultTitle}</code></td><td> Text color, typeface, size, and style for system search result title.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.example.skytree:textAppearanceSmallPopupMenu}</code></td><td> Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.example.skytree:textColorAlertDialogListItem}</code></td><td> Color of list item text in alert dialogs.</td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.example.skytree:textColorSearchUrl}</code></td><td> Text color for urls in search suggestions, used by things like global search </td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.example.skytree:toolbarNavigationButtonStyle}</code></td><td> Default Toolar NavigationButtonStyle </td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.example.skytree:toolbarStyle}</code></td><td> Default Toolbar style.</td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.example.skytree:windowActionBar}</code></td><td> Flag indicating whether this window should have an Action Bar
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.tiritsumo.skytree:selectableItemBackgroundBorderless}</code></td><td> Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.tiritsumo.skytree:spinnerDropDownItemStyle}</code></td><td> Default Spinner style.</td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.tiritsumo.skytree:spinnerStyle}</code></td><td> Default Spinner style.</td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.tiritsumo.skytree:switchStyle}</code></td><td> Default style for the Switch widget.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.tiritsumo.skytree:textAppearanceLargePopupMenu}</code></td><td> Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.tiritsumo.skytree:textAppearanceListItem}</code></td><td> The preferred TextAppearance for the primary text of list items.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.tiritsumo.skytree:textAppearanceListItemSmall}</code></td><td> The preferred TextAppearance for the primary text of small list items.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.tiritsumo.skytree:textAppearanceSearchResultSubtitle}</code></td><td> Text color, typeface, size, and style for system search result subtitle.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.tiritsumo.skytree:textAppearanceSearchResultTitle}</code></td><td> Text color, typeface, size, and style for system search result title.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.tiritsumo.skytree:textAppearanceSmallPopupMenu}</code></td><td> Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.tiritsumo.skytree:textColorAlertDialogListItem}</code></td><td> Color of list item text in alert dialogs.</td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.tiritsumo.skytree:textColorSearchUrl}</code></td><td> Text color for urls in search suggestions, used by things like global search </td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.tiritsumo.skytree:toolbarNavigationButtonStyle}</code></td><td> Default Toolar NavigationButtonStyle </td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.tiritsumo.skytree:toolbarStyle}</code></td><td> Default Toolbar style.</td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.tiritsumo.skytree:windowActionBar}</code></td><td> Flag indicating whether this window should have an Action Bar
              in place of the usual title bar.</td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.example.skytree:windowActionBarOverlay}</code></td><td> Flag indicating whether this window's Action Bar should overlay
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.tiritsumo.skytree:windowActionBarOverlay}</code></td><td> Flag indicating whether this window's Action Bar should overlay
              application content.</td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.example.skytree:windowActionModeOverlay}</code></td><td> Flag indicating whether action modes should overlay window content
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.tiritsumo.skytree:windowActionModeOverlay}</code></td><td> Flag indicating whether action modes should overlay window content
              when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.example.skytree:windowFixedHeightMajor}</code></td><td> A fixed height for the window along the major axis of the screen,
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.tiritsumo.skytree:windowFixedHeightMajor}</code></td><td> A fixed height for the window along the major axis of the screen,
              that is, when in portrait.</td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.example.skytree:windowFixedHeightMinor}</code></td><td> A fixed height for the window along the minor axis of the screen,
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.tiritsumo.skytree:windowFixedHeightMinor}</code></td><td> A fixed height for the window along the minor axis of the screen,
              that is, when in landscape.</td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.example.skytree:windowFixedWidthMajor}</code></td><td> A fixed width for the window along the major axis of the screen,
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.tiritsumo.skytree:windowFixedWidthMajor}</code></td><td> A fixed width for the window along the major axis of the screen,
              that is, when in landscape.</td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.example.skytree:windowFixedWidthMinor}</code></td><td> A fixed width for the window along the minor axis of the screen,
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.tiritsumo.skytree:windowFixedWidthMinor}</code></td><td> A fixed width for the window along the minor axis of the screen,
              that is, when in portrait.</td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.example.skytree:windowMinWidthMajor}</code></td><td> The minimum width the window is allowed to be, along the major
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.tiritsumo.skytree:windowMinWidthMajor}</code></td><td> The minimum width the window is allowed to be, along the major
              axis of the screen.</td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.example.skytree:windowMinWidthMinor}</code></td><td> The minimum width the window is allowed to be, along the minor
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.tiritsumo.skytree:windowMinWidthMinor}</code></td><td> The minimum width the window is allowed to be, along the minor
              axis of the screen.</td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.example.skytree:windowNoTitle}</code></td><td> Flag indicating whether there should be no title on this window.</td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.tiritsumo.skytree:windowNoTitle}</code></td><td> Flag indicating whether there should be no title on this window.</td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -5138,7 +5138,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarDivider
+          @attr name com.tiritsumo.skytree:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
@@ -5150,7 +5150,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarItemBackground
+          @attr name com.tiritsumo.skytree:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
@@ -5163,7 +5163,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarPopupTheme
+          @attr name com.tiritsumo.skytree:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
@@ -5190,7 +5190,7 @@ containing a value of this type.
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarSize
+          @attr name com.tiritsumo.skytree:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
@@ -5205,7 +5205,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarSplitStyle
+          @attr name com.tiritsumo.skytree:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
@@ -5217,17 +5217,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarStyle
+          @attr name com.tiritsumo.skytree:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:actionBarTabBarStyle
+          @attr name com.tiritsumo.skytree:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
@@ -5239,17 +5239,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarTabStyle
+          @attr name com.tiritsumo.skytree:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:actionBarTabTextStyle
+          @attr name com.tiritsumo.skytree:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
@@ -5263,7 +5263,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarTheme
+          @attr name com.tiritsumo.skytree:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
@@ -5281,7 +5281,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionBarWidgetTheme
+          @attr name com.tiritsumo.skytree:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
@@ -5293,7 +5293,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionButtonStyle
+          @attr name com.tiritsumo.skytree:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
@@ -5305,7 +5305,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionDropDownStyle
+          @attr name com.tiritsumo.skytree:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
@@ -5318,7 +5318,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionMenuTextAppearance
+          @attr name com.tiritsumo.skytree:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
@@ -5333,7 +5333,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionMenuTextColor
+          @attr name com.tiritsumo.skytree:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
@@ -5345,17 +5345,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeBackground
+          @attr name com.tiritsumo.skytree:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:actionModeCloseButtonStyle
+          @attr name com.tiritsumo.skytree:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
@@ -5367,7 +5367,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeCloseDrawable
+          @attr name com.tiritsumo.skytree:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
@@ -5379,7 +5379,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeCopyDrawable
+          @attr name com.tiritsumo.skytree:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
@@ -5391,7 +5391,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeCutDrawable
+          @attr name com.tiritsumo.skytree:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
@@ -5403,7 +5403,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeFindDrawable
+          @attr name com.tiritsumo.skytree:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
@@ -5415,7 +5415,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModePasteDrawable
+          @attr name com.tiritsumo.skytree:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
@@ -5427,7 +5427,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModePopupWindowStyle
+          @attr name com.tiritsumo.skytree:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
@@ -5439,7 +5439,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeSelectAllDrawable
+          @attr name com.tiritsumo.skytree:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
@@ -5451,7 +5451,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeShareDrawable
+          @attr name com.tiritsumo.skytree:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
@@ -5463,17 +5463,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeSplitBackground
+          @attr name com.tiritsumo.skytree:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:actionModeStyle
+          @attr name com.tiritsumo.skytree:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
@@ -5485,27 +5485,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:actionModeWebSearchDrawable
+          @attr name com.tiritsumo.skytree:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:actionOverflowButtonStyle
+          @attr name com.tiritsumo.skytree:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:actionOverflowMenuStyle
+          @attr name com.tiritsumo.skytree:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
@@ -5517,21 +5517,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:activityChooserViewStyle
+          @attr name com.tiritsumo.skytree:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 56;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:alertDialogButtonGroupStyle
+          @attr name com.tiritsumo.skytree:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 89;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5541,17 +5541,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.skytree:alertDialogCenterButtons
+          @attr name com.tiritsumo.skytree:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 90;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:alertDialogStyle
+          @attr name com.tiritsumo.skytree:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 88;
         /**
@@ -5563,7 +5563,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:alertDialogTheme
+          @attr name com.tiritsumo.skytree:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 91;
         /**
@@ -5587,7 +5587,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:autoCompleteTextViewStyle
+          @attr name com.tiritsumo.skytree:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 96;
         /**
@@ -5599,7 +5599,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:buttonBarButtonStyle
+          @attr name com.tiritsumo.skytree:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
@@ -5611,7 +5611,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:buttonBarNegativeButtonStyle
+          @attr name com.tiritsumo.skytree:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 94;
         /**
@@ -5623,7 +5623,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:buttonBarNeutralButtonStyle
+          @attr name com.tiritsumo.skytree:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 95;
         /**
@@ -5635,7 +5635,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:buttonBarPositiveButtonStyle
+          @attr name com.tiritsumo.skytree:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 93;
         /**
@@ -5647,7 +5647,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:buttonBarStyle
+          @attr name com.tiritsumo.skytree:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
@@ -5659,7 +5659,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:buttonStyle
+          @attr name com.tiritsumo.skytree:buttonStyle
         */
         public static final int Theme_buttonStyle = 97;
         /**
@@ -5671,7 +5671,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:buttonStyleSmall
+          @attr name com.tiritsumo.skytree:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 98;
         /**
@@ -5683,7 +5683,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:checkboxStyle
+          @attr name com.tiritsumo.skytree:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 99;
         /**
@@ -5695,7 +5695,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:checkedTextViewStyle
+          @attr name com.tiritsumo.skytree:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 100;
         /**
@@ -5713,7 +5713,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:colorAccent
+          @attr name com.tiritsumo.skytree:colorAccent
         */
         public static final int Theme_colorAccent = 82;
         /**
@@ -5730,7 +5730,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:colorButtonNormal
+          @attr name com.tiritsumo.skytree:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 86;
         /**
@@ -5747,7 +5747,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:colorControlActivated
+          @attr name com.tiritsumo.skytree:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 84;
         /**
@@ -5764,7 +5764,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:colorControlHighlight
+          @attr name com.tiritsumo.skytree:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 85;
         /**
@@ -5781,7 +5781,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:colorControlNormal
+          @attr name com.tiritsumo.skytree:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 83;
         /**
@@ -5799,7 +5799,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:colorPrimary
+          @attr name com.tiritsumo.skytree:colorPrimary
         */
         public static final int Theme_colorPrimary = 80;
         /**
@@ -5817,7 +5817,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:colorPrimaryDark
+          @attr name com.tiritsumo.skytree:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 81;
         /**
@@ -5834,7 +5834,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:colorSwitchThumbNormal
+          @attr name com.tiritsumo.skytree:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 87;
         /**
@@ -5852,7 +5852,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:dialogPreferredPadding
+          @attr name com.tiritsumo.skytree:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
@@ -5864,7 +5864,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:dialogTheme
+          @attr name com.tiritsumo.skytree:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
@@ -5876,7 +5876,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:dividerHorizontal
+          @attr name com.tiritsumo.skytree:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 55;
         /**
@@ -5888,7 +5888,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:dividerVertical
+          @attr name com.tiritsumo.skytree:dividerVertical
         */
         public static final int Theme_dividerVertical = 54;
         /**
@@ -5900,7 +5900,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:dropDownListViewStyle
+          @attr name com.tiritsumo.skytree:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 72;
         /**
@@ -5918,7 +5918,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:dropdownListPreferredItemHeight
+          @attr name com.tiritsumo.skytree:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
@@ -5930,7 +5930,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:editTextBackground
+          @attr name com.tiritsumo.skytree:editTextBackground
         */
         public static final int Theme_editTextBackground = 62;
         /**
@@ -5944,7 +5944,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:editTextColor
+          @attr name com.tiritsumo.skytree:editTextColor
         */
         public static final int Theme_editTextColor = 61;
         /**
@@ -5956,7 +5956,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:editTextStyle
+          @attr name com.tiritsumo.skytree:editTextStyle
         */
         public static final int Theme_editTextStyle = 101;
         /**
@@ -5968,7 +5968,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:homeAsUpIndicator
+          @attr name com.tiritsumo.skytree:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
@@ -5980,7 +5980,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:listChoiceBackgroundIndicator
+          @attr name com.tiritsumo.skytree:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 79;
         /**
@@ -5992,17 +5992,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:listDividerAlertDialog
+          @attr name com.tiritsumo.skytree:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:listPopupWindowStyle
+          @attr name com.tiritsumo.skytree:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 73;
         /**
@@ -6020,7 +6020,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:listPreferredItemHeight
+          @attr name com.tiritsumo.skytree:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 67;
         /**
@@ -6038,7 +6038,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:listPreferredItemHeightLarge
+          @attr name com.tiritsumo.skytree:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 69;
         /**
@@ -6056,7 +6056,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:listPreferredItemHeightSmall
+          @attr name com.tiritsumo.skytree:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 68;
         /**
@@ -6074,7 +6074,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:listPreferredItemPaddingLeft
+          @attr name com.tiritsumo.skytree:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 70;
         /**
@@ -6092,7 +6092,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:listPreferredItemPaddingRight
+          @attr name com.tiritsumo.skytree:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 71;
         /**
@@ -6104,7 +6104,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:panelBackground
+          @attr name com.tiritsumo.skytree:panelBackground
         */
         public static final int Theme_panelBackground = 76;
         /**
@@ -6116,7 +6116,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:panelMenuListTheme
+          @attr name com.tiritsumo.skytree:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 78;
         /**
@@ -6134,7 +6134,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:panelMenuListWidth
+          @attr name com.tiritsumo.skytree:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 77;
         /**
@@ -6146,7 +6146,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:popupMenuStyle
+          @attr name com.tiritsumo.skytree:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 59;
         /**
@@ -6158,7 +6158,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:popupWindowStyle
+          @attr name com.tiritsumo.skytree:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 60;
         /**
@@ -6170,7 +6170,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:radioButtonStyle
+          @attr name com.tiritsumo.skytree:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 102;
         /**
@@ -6182,7 +6182,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:ratingBarStyle
+          @attr name com.tiritsumo.skytree:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 103;
         /**
@@ -6194,7 +6194,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:searchViewStyle
+          @attr name com.tiritsumo.skytree:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 66;
         /**
@@ -6208,7 +6208,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:selectableItemBackground
+          @attr name com.tiritsumo.skytree:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
@@ -6220,7 +6220,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:selectableItemBackgroundBorderless
+          @attr name com.tiritsumo.skytree:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
@@ -6232,7 +6232,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:spinnerDropDownItemStyle
+          @attr name com.tiritsumo.skytree:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
@@ -6244,7 +6244,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:spinnerStyle
+          @attr name com.tiritsumo.skytree:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 104;
         /**
@@ -6256,7 +6256,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:switchStyle
+          @attr name com.tiritsumo.skytree:switchStyle
         */
         public static final int Theme_switchStyle = 105;
         /**
@@ -6268,7 +6268,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textAppearanceLargePopupMenu
+          @attr name com.tiritsumo.skytree:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
@@ -6280,7 +6280,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textAppearanceListItem
+          @attr name com.tiritsumo.skytree:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 74;
         /**
@@ -6292,7 +6292,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textAppearanceListItemSmall
+          @attr name com.tiritsumo.skytree:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 75;
         /**
@@ -6304,7 +6304,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textAppearanceSearchResultSubtitle
+          @attr name com.tiritsumo.skytree:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 64;
         /**
@@ -6316,7 +6316,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textAppearanceSearchResultTitle
+          @attr name com.tiritsumo.skytree:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 63;
         /**
@@ -6328,7 +6328,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textAppearanceSmallPopupMenu
+          @attr name com.tiritsumo.skytree:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
@@ -6342,7 +6342,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textColorAlertDialogListItem
+          @attr name com.tiritsumo.skytree:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 92;
         /**
@@ -6356,7 +6356,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:textColorSearchUrl
+          @attr name com.tiritsumo.skytree:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 65;
         /**
@@ -6368,7 +6368,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:toolbarNavigationButtonStyle
+          @attr name com.tiritsumo.skytree:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 58;
         /**
@@ -6380,7 +6380,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:toolbarStyle
+          @attr name com.tiritsumo.skytree:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 57;
         /**
@@ -6397,7 +6397,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowActionBar
+          @attr name com.tiritsumo.skytree:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
@@ -6415,7 +6415,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowActionBarOverlay
+          @attr name com.tiritsumo.skytree:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
@@ -6432,7 +6432,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowActionModeOverlay
+          @attr name com.tiritsumo.skytree:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
@@ -6455,7 +6455,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowFixedHeightMajor
+          @attr name com.tiritsumo.skytree:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
@@ -6478,7 +6478,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowFixedHeightMinor
+          @attr name com.tiritsumo.skytree:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
@@ -6501,7 +6501,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowFixedWidthMajor
+          @attr name com.tiritsumo.skytree:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
@@ -6524,7 +6524,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowFixedWidthMinor
+          @attr name com.tiritsumo.skytree:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
@@ -6548,7 +6548,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowMinWidthMajor
+          @attr name com.tiritsumo.skytree:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
@@ -6572,7 +6572,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowMinWidthMinor
+          @attr name com.tiritsumo.skytree:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
@@ -6588,7 +6588,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:windowNoTitle
+          @attr name com.tiritsumo.skytree:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -6599,28 +6599,28 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td> Allows us to read in the minHeight attr pre-v16 </td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.skytree:collapseContentDescription}</code></td><td> Text to set as the content description for the collapse button.</td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.example.skytree:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.skytree:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.skytree:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.example.skytree:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.example.skytree:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.skytree:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.skytree:navigationContentDescription}</code></td><td> Text to set as the content description for the navigation button
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.tiritsumo.skytree:collapseContentDescription}</code></td><td> Text to set as the content description for the collapse button.</td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.tiritsumo.skytree:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.tiritsumo.skytree:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.tiritsumo.skytree:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.tiritsumo.skytree:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.tiritsumo.skytree:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.tiritsumo.skytree:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.tiritsumo.skytree:navigationContentDescription}</code></td><td> Text to set as the content description for the navigation button
              located at the start of the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.example.skytree:navigationIcon}</code></td><td> Icon drawable to use for the navigation button located at
+           <tr><td><code>{@link #Toolbar_navigationIcon com.tiritsumo.skytree:navigationIcon}</code></td><td> Icon drawable to use for the navigation button located at
              the start of the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.example.skytree:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #Toolbar_popupTheme com.tiritsumo.skytree:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.example.skytree:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.skytree:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.example.skytree:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.skytree:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.skytree:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.example.skytree:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.example.skytree:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.example.skytree:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.skytree:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.tiritsumo.skytree:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.tiritsumo.skytree:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.tiritsumo.skytree:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.tiritsumo.skytree:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.tiritsumo.skytree:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.tiritsumo.skytree:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.tiritsumo.skytree:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.tiritsumo.skytree:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.tiritsumo.skytree:titleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6680,17 +6680,17 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:collapseContentDescription
+          @attr name com.tiritsumo.skytree:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 18;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:collapseIcon
+          @attr name com.tiritsumo.skytree:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 17;
         /**
@@ -6709,7 +6709,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:contentInsetEnd
+          @attr name com.tiritsumo.skytree:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 5;
         /**
@@ -6728,7 +6728,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:contentInsetLeft
+          @attr name com.tiritsumo.skytree:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 6;
         /**
@@ -6747,7 +6747,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:contentInsetRight
+          @attr name com.tiritsumo.skytree:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 7;
         /**
@@ -6766,11 +6766,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:contentInsetStart
+          @attr name com.tiritsumo.skytree:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6782,7 +6782,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.skytree:maxButtonHeight
+          @attr name com.tiritsumo.skytree:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 16;
         /**
@@ -6799,7 +6799,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:navigationContentDescription
+          @attr name com.tiritsumo.skytree:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 20;
         /**
@@ -6812,7 +6812,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:navigationIcon
+          @attr name com.tiritsumo.skytree:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 19;
         /**
@@ -6825,7 +6825,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:popupTheme
+          @attr name com.tiritsumo.skytree:popupTheme
         */
         public static final int Toolbar_popupTheme = 8;
         /**
@@ -6841,21 +6841,21 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:subtitle
+          @attr name com.tiritsumo.skytree:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:subtitleTextAppearance
+          @attr name com.tiritsumo.skytree:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#title}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6865,11 +6865,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.skytree:title
+          @attr name com.tiritsumo.skytree:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6881,11 +6881,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.skytree:titleMarginBottom
+          @attr name com.tiritsumo.skytree:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 15;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6897,11 +6897,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.skytree:titleMarginEnd
+          @attr name com.tiritsumo.skytree:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6913,11 +6913,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.skytree:titleMarginStart
+          @attr name com.tiritsumo.skytree:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 12;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6929,11 +6929,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.skytree:titleMarginTop
+          @attr name com.tiritsumo.skytree:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 14;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6945,17 +6945,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.skytree:titleMargins
+          @attr name com.tiritsumo.skytree:titleMargins
         */
         public static final int Toolbar_titleMargins = 11;
         /**
-          <p>This symbol is the offset where the {@link com.example.skytree.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.tiritsumo.skytree.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.skytree:titleTextAppearance
+          @attr name com.tiritsumo.skytree:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
@@ -6966,11 +6966,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td> Boolean that controls whether a view can take focus.</td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td> Specifies a theme override for a view.</td></tr>
-           <tr><td><code>{@link #View_backgroundTint com.example.skytree:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
-           <tr><td><code>{@link #View_backgroundTintMode com.example.skytree:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.example.skytree:paddingEnd}</code></td><td> Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-           <tr><td><code>{@link #View_paddingStart com.example.skytree:paddingStart}</code></td><td> Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-           <tr><td><code>{@link #View_theme com.example.skytree:theme}</code></td><td> Deprecated.</td></tr>
+           <tr><td><code>{@link #View_backgroundTint com.tiritsumo.skytree:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
+           <tr><td><code>{@link #View_backgroundTintMode com.tiritsumo.skytree:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.tiritsumo.skytree:paddingEnd}</code></td><td> Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+           <tr><td><code>{@link #View_paddingStart com.tiritsumo.skytree:paddingStart}</code></td><td> Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+           <tr><td><code>{@link #View_theme com.tiritsumo.skytree:theme}</code></td><td> Deprecated.</td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -7023,7 +7023,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:backgroundTint
+          @attr name com.tiritsumo.skytree:backgroundTint
         */
         public static final int View_backgroundTint = 5;
         /**
@@ -7049,7 +7049,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td> [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.skytree:backgroundTintMode
+          @attr name com.tiritsumo.skytree:backgroundTintMode
         */
         public static final int View_backgroundTintMode = 6;
         /**
@@ -7067,7 +7067,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:paddingEnd
+          @attr name com.tiritsumo.skytree:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
@@ -7085,7 +7085,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.skytree:paddingStart
+          @attr name com.tiritsumo.skytree:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
@@ -7097,7 +7097,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.skytree:theme
+          @attr name com.tiritsumo.skytree:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewStubCompat.
