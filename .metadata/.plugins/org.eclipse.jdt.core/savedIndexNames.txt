@@ -1,11 +1,10 @@
 INDEX VERSION 1.127+C:\Users\student\Documents\skytree\.metadata\.plugins\org.eclipse.jdt.core
-<<<<<<< HEAD
-3344086872.index
 2882639569.index
 407907399.index
-1284074322.index
-=======
-407907399.index
+3131051953.index
 1449046802.index
+3271193799.index
 3344086872.index
->>>>>>> 5939a9ebc7c7033088acf2a6d71cea4684ed9b15
+370932255.index
+2434344570.index
+1284074322.index

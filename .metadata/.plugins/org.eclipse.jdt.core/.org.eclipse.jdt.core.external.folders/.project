@@ -10,9 +10,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>.link1</name>
+			<name>.link0</name>
 			<type>2</type>
 			<location>C:/Android/android-sdk_r24.2-windows/android-sdk-windows/sources/android-21</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>C:/android-sdk-windows/sources/android-22</location>
 		</link>
 	</linkedResources>
 </projectDescription>
